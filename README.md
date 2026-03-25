@@ -6,4 +6,4 @@
 ![C#](https://skillicons.dev/icons?i=cs)
 ![C](https://skillicons.dev/icons?i=c)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whateverfault)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whateverfault&hide_progress=false&layout=compact&theme=radical)
